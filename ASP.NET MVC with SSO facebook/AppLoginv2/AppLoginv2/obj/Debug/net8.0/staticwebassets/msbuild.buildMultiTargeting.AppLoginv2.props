@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppLoginv2.props" />
+</Project>

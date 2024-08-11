@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|c:\\users\\hp\\desktop\\proyecto_.net version final\\apploginv2\\apploginv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|solutionrelative:apploginv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|c:\\users\\hp\\desktop\\proyecto_.net version final\\apploginv2\\apploginv2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|solutionrelative:apploginv2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|c:\\users\\hp\\desktop\\proyecto_.net version final\\apploginv2\\apploginv2\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|solutionrelative:apploginv2\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|c:\\users\\hp\\desktop\\proyecto_.net version final\\apploginv2\\apploginv2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|solutionrelative:apploginv2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|c:\\users\\hp\\desktop\\proyecto_.net version final\\apploginv2\\apploginv2\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|solutionrelative:apploginv2\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|c:\\users\\hp\\desktop\\proyecto_.net version final\\apploginv2\\apploginv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47938D33-6B5D-4515-9668-1A594759A730}|AppLoginv2\\AppLoginv2.csproj|solutionrelative:apploginv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Program.cs",
+              "RelativeDocumentMoniker": "AppLoginv2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Program.cs",
+              "RelativeToolTip": "AppLoginv2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:36:23.507Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppLoginv2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppLoginv2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:58:26.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "AppLoginv2\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "AppLoginv2\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:59:21.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppLoginv2\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "AppLoginv2\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:28:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AppLoginv2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AppLoginv2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:26:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLoginv2\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto_.NET version final\\AppLoginv2\\AppLoginv2\\appsettings.json",
+              "RelativeToolTip": "AppLoginv2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T16:09:59.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
